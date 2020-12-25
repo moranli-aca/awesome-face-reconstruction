@@ -1,1 +1,1 @@
-# -awesome-face-reconstruction
+# awesome-face-reconstruction
